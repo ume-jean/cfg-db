@@ -1,0 +1,66 @@
+{
+    "code": "default", 
+    "collection": [
+        {
+            "name": "gtcfg", 
+            "root": "cfg", 
+            "type": "module", 
+            "version": "1.9.0"
+        }, 
+        {
+            "name": "deployer", 
+            "root": "prod", 
+            "type": "module", 
+            "version": "0.1.0"
+        }, 
+        {
+            "name": "launcher", 
+            "root": "prod", 
+            "type": "module", 
+            "version": "1.0.0"
+        }, 
+        {
+            "name": "console", 
+            "platform": [
+                "win", 
+                "linux", 
+                "osx"
+            ], 
+            "root": "app", 
+            "type": "tool", 
+            "version": "1.0.0"
+        }, 
+        {
+            "name": "python", 
+            "platform": [
+                "win", 
+                "linux", 
+                "osx"
+            ], 
+            "root": "app", 
+            "type": "tool", 
+            "version": "2.7.13"
+        }, 
+        {
+            "name": "wrappers", 
+            "platform": [
+                "win", 
+                "linux", 
+                "osx"
+            ], 
+            "root": "prod", 
+            "type": "tool", 
+            "version": "1.6.0"
+        }, 
+        {
+            "name": "gtdevpkg", 
+            "root": "prod", 
+            "type": "module", 
+            "version": "8.1.0"
+        }
+    ], 
+    "id": 5, 
+    "name": "Default-Package-Config", 
+    "parent_id": -1, 
+    "type": "pkg"
+}

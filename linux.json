@@ -1,0 +1,20 @@
+{
+  "code": "linux",
+  "name": "Linux-Environment",
+  "parent_id": -1,
+  "type": "env",
+  "id": 3,
+  "collection": [
+                  {
+                    "GT_CONFIG_VER": "1.0.0",
+                    "GT_ROOT":"/prod/GT-ROOT",
+                    "GT_CONFIG_MNT":"${GT_ROOT}",
+                    "GT_RESRC_MNT":"${GT_ROOT}",
+                    "GT_APP_MNT":"${GT_ROOT}",
+                    "GT_RENDER_MNT":"${GT_ROOT}",
+                    "GT_PROJECT_MNT":"${GT_ROOT}",
+                    "GT_DEV_MNT":"${GT_ROOT}",
+                    "GT_HOME_MNT":"${GT_ROOT}/home"
+                 }
+            ]
+}

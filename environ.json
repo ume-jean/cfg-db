@@ -1,0 +1,40 @@
+{
+  "code": "default",
+  "name": "Default-Environment",
+  "parent_id": -1,
+  "type": "env",
+  "id": 1,
+  
+  "collection":[
+                  {
+      
+                     "GT_CONFIG_VER": "1.0.0",
+                    
+                     "GT_APP_ROOT":"${GT_APP_MNT}/apps",
+                     "GT_PACKAGE_ROOT":"${GT_APP_MNT}/packages",
+                     "GT_BUILD_ROOT":"${GT_APP_MNT}/builds",
+                     
+                     "GT_RESRC_ROOT":"${GT_RESRC_MNT}/resrc",
+                     "GT_RENDER_ROOT":"${GT_RENDER_MNT}/renders",
+                     "GT_PROJECT_ROOT":"${GT_PROJECT_MNT}/projects",
+                     "GT_CONFIG_ROOT":"${GT_CONFIG_MNT}/config",
+                     "GT_DEV_ROOT":"${GT_DEV_MNT}/Dev",
+              
+                     "GT_LOGS":"",
+                     "GT_SUPPORT_EMAIL":"",
+                     "GT_SMTP_PORT":"25",
+                     "GT_SMTP_SERVER":"",
+                     
+                     "GT_CONFIG_CLIENT":"${GT_CONFIG_ROOT}/gtcfg",
+                     "GT_CONFIG_SERVER":"${GT_CONFIG_ROOT}/cfg-db",
+                     "GT_REPO_SERVER":"git-server",
+                     "GT_REPO_ROOT":"dev",
+                     "GT_BUILDS_SERVER":"jenkins-server",
+                     "GT_REPO_TOKEN":"LssRnHk8PuZgB35c2SJ5",
+                     "GT_REPO_USER":"git",
+                     "GT_REPO_PASSWD":"!git123",
+                     "GT_REPO_SSH_KEY":"${GT_RESRC_ROOT}/ssh_keys/git.pub"
+                  }
+              ]
+}
+  
