@@ -16,7 +16,7 @@
                      
                      "GT_RESRC_ROOT":"${GT_RESRC_MNT}/resrc",
                      "GT_RENDER_ROOT":"${GT_RENDER_MNT}/renders",
-                     "GT_PROJECT_ROOT":"${GT_PROJECT_MNT}/projects",
+                     "GT_PROJECT_ROOT":"${GT_PROJECT_MNT}/PROJECTS",
                      "GT_CONFIG_ROOT":"${GT_CONFIG_MNT}/config",
                      "GT_DEV_ROOT":"${GT_DEV_MNT}/Dev",
               
