@@ -11,6 +11,7 @@
                      "GT_CONFIG_VER": "1.0.0",
                     
                      "GT_APP_ROOT":"${GT_APP_MNT}/apps",
+					 "GT_MODULE_ROOT":"${GT_APP_MNT}/modules",
                      "GT_PACKAGE_ROOT":"${GT_APP_MNT}/packages",
                      "GT_BUILD_ROOT":"${GT_APP_MNT}/builds",
                      
@@ -33,7 +34,9 @@
                      "GT_REPO_TOKEN":"LssRnHk8PuZgB35c2SJ5",
                      "GT_REPO_USER":"git",
                      "GT_REPO_PASSWD":"!git123",
-                     "GT_REPO_SSH_KEY":"${GT_RESRC_ROOT}/ssh_keys/git.pub"
+                     "GT_REPO_SSH_KEY":"${GT_RESRC_ROOT}/ssh_keys/git.pub",
+					 
+					 "MAYA_MODULE_PATH":"${GT_MODULE_ROOT}/maya/default/modules"
                   }
               ]
 }

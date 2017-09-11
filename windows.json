@@ -12,7 +12,7 @@
                     "GT_RESRC_MNT":"${GT_ROOT}",
                     "GT_APP_MNT":"${GT_ROOT}",
                     "GT_RENDER_MNT":"${GT_ROOT}",
-                    "GT_PROJECT_MNT":"${GT_ROOT}",
+                    "GT_PROJECT_MNT":"P:",
                     "GT_DEV_MNT":"${GT_ROOT}",
                     "GT_HOME_MNT":"${GT_ROOT}/home"
                   }
